@@ -1,5 +1,5 @@
 {
-	"name": "wwt",
+	"name": "Eugeshakw",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
@@ -40,7 +40,7 @@
 		"react-router-dom": "^6.17.0",
 		"react-select": "^5.7.7",
 		"swiper": "^11.0.3",
-		"vite-tsconfig-paths": "^4.2.1",
+		"vite-tsconfig-paths": "^4.3.2",
 		"zustand": "^4.4.7"
 	},
 	"devDependencies": {
@@ -69,9 +69,9 @@
 		"lint-staged": "^15.0.1",
 		"prettier": "^3.0.3",
 		"typescript": "^5.0.2",
-		"vite": "^4.4.5",
-		"vite-plugin-svgr": "^4.1.0",
-		"vitest": "^1.2.1"
+		"vite": "^4.5.3",
+		"vite-plugin-svgr": "^4.2.0",
+		"vitest": "^1.6.0"
 	},
 	"lint-staged": {
 		"*.{ts,tsx}": [
